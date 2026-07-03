@@ -171,11 +171,14 @@ motto: "아키텍처는 시작일 뿐, 운영으로 증명한다."
 ## 📫 Let's Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/minholee1999/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:andy0401@naver.com"><img src="https://img.shields.io/badge/andy0401@naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/minholee1999/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="34" height="34" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:andy0401@naver.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="34" height="34" alt="Email"/>
+  </a>
 </p>
-
-> 클라우드 아키텍처 · 운영 자동화 · GenAI에 대해 이야기하고 싶다면 언제든 연락 주세요.
 
 <!-- ===== FOOTER ===== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:FF9900,100:232F3E&height=140&section=footer&reversal=true"/>
