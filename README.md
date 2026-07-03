@@ -1,5 +1,5 @@
 <!-- ===== HEADER BANNER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:232F3E,100:FF9900&height=210&section=header&text=Minho%20Lee&fontSize=58&fontColor=ffffff&fontAlignY=32&desc=Cloud%20%26%20DevOps%20Engineer%20%C2%B7%20AWS%20Solutions%20Architect&descAlignY=52&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:232F3E,100:FF9900&height=210&section=header&text=Minho%20Lee&fontSize=58&fontColor=ffffff&fontAlignY=32&desc=Cloud%20and%20DevOps%20Engineer%20%C2%B7%20AWS%20Solutions%20Architect&descAlignY=52&descSize=17"/>
 
 <!-- ===== TYPING ANIMATION ===== -->
 <p align="center">
