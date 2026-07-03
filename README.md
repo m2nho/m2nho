@@ -89,16 +89,32 @@ motto: "배운 것은 공개 실습으로 정리해 공유합니다."
 
 <br/>
 
-<!-- ===== GITHUB ACTIVITY ===== -->
-## 📈 GitHub Activity
+<!-- ===== CERTIFICATIONS ===== -->
+## 📜 Certifications
 
-<p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=m2nho&hide_border=true&theme=tokyonight" alt="Streak"/>
+**☁️ AWS — Professional**
+<p>
+  <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-Professional-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
+  <img src="https://img.shields.io/badge/AWS%20DevOps%20Engineer-Professional-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
 </p>
 
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=m2nho&hide_border=true&theme=tokyo-night&area=true" alt="Activity Graph"/>
+**☁️ AWS — Associate & Foundational**
+<p>
+  <img src="https://img.shields.io/badge/Solutions%20Architect-Associate-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Developer-Associate-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning%20Engineer-Associate-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CloudOps%20Engineer-Associate-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20Practitioner-Foundational-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white"/>
 </p>
+
+**🧩 Kubernetes · Data · AI**
+<p>
+  <img src="https://img.shields.io/badge/CKA%20Kubernetes%20Administrator-CNCF-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks%20GenAI%20Engineer-Associate-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLD-KDATA-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
+
+> 🏅 AWS 7종(Professional 2 · Associate 4 · Foundational 1) · CKA · Databricks · SQLD
 
 <!-- ===== FOOTER ===== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,100:232F3E&height=120&section=footer"/>
