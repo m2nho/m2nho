@@ -23,7 +23,7 @@
 <br/>
 
 <!-- ===== ABOUT ===== -->
-## 🧑‍💻 About Me
+## <img src="https://api.iconify.design/lucide/user-round.svg?color=%23FF9900" height="26" align="center"/> About Me
 
 ```yaml
 name: 이민호 (Minho Lee)
@@ -41,7 +41,7 @@ motto: "아키텍처는 시작일 뿐, 운영으로 증명한다."
 <br/>
 
 <!-- ===== TECH STACK ===== -->
-## 🛠️ Tech Stack
+## <img src="https://api.iconify.design/lucide/wrench.svg?color=%23FF9900" height="26" align="center"/> Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,docker,python,linux,bash,git,githubactions,grafana,elasticsearch,kafka&theme=dark" alt="Tech Stack"/>
@@ -56,26 +56,26 @@ motto: "아키텍처는 시작일 뿐, 운영으로 증명한다."
 <br/>
 
 <!-- ===== WHAT I DO ===== -->
-## 🎯 What I Do
+## <img src="https://api.iconify.design/lucide/target.svg?color=%23FF9900" height="26" align="center"/> What I Do
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>⚙️ DevOps &amp; SRE</h4>
+      <h4><img src="https://api.iconify.design/lucide/settings.svg?color=%23FF9900" height="18" align="center"/> DevOps &amp; SRE</h4>
       Kubernetes · Terraform(IaC) · CI/CD(GitHub Actions, ArgoCD) · EFK/CloudWatch · Auto Scaling
     </td>
     <td width="50%" valign="top">
-      <h4>☁️ Cloud Infrastructure</h4>
+      <h4><img src="https://api.iconify.design/lucide/cloud.svg?color=%23FF9900" height="18" align="center"/> Cloud Infrastructure</h4>
       EKS · ECS · Fargate · Lambda · Step Functions · VPC/ALB · IAM · S3/CloudFront/RDS
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🐧 Systems &amp; Scripting</h4>
+      <h4><img src="https://api.iconify.design/lucide/terminal.svg?color=%23FF9900" height="18" align="center"/> Systems &amp; Scripting</h4>
       Linux Administration · Python/Boto3 · Shell · Kafka/Elasticsearch · Networking(TCP/IP, DNS)
     </td>
     <td width="50%" valign="top">
-      <h4>✨ AI &amp; Automation</h4>
+      <h4><img src="https://api.iconify.design/lucide/sparkles.svg?color=%23FF9900" height="18" align="center"/> AI &amp; Automation</h4>
       Amazon Bedrock · RAG · MCP Agent · n8n Workflow · Data Pipeline
     </td>
   </tr>
@@ -84,12 +84,12 @@ motto: "아키텍처는 시작일 뿐, 운영으로 증명한다."
 <br/>
 
 <!-- ===== FEATURED WORK ===== -->
-## 📌 Featured Work
+## <img src="https://api.iconify.design/lucide/pin.svg?color=%23FF9900" height="26" align="center"/> Featured Work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛡️ AWS 운영 점검 자동화 플랫폼</h3>
+      <h3><img src="https://api.iconify.design/lucide/shield-check.svg?color=%23FF9900" height="20" align="center"/> AWS 운영 점검 자동화 플랫폼</h3>
       수십 개 고객 계정 월간 점검을 Python·Boto3로 E2E 자동화 — 반나절(4~5h) → 수분, 점검 항목 100% 일관성, 유휴 리소스·보안 취약점 사전 탐지
       <br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -97,7 +97,7 @@ motto: "아키텍처는 시작일 뿐, 운영으로 증명한다."
       <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h3>🖼️ AI 이미지 라벨링 자동화</h3>
+      <h3><img src="https://api.iconify.design/lucide/image.svg?color=%23FF9900" height="20" align="center"/> AI 이미지 라벨링 자동화</h3>
       언론사 보도사진 태깅을 Step Functions로 오케스트레이션 — Rekognition 얼굴 검색 + Claude(Bedrock) 맥락 분석, 3가지 케이스 자동 분기, 프로덕션 운영 중
       <br/><br/>
       <img src="https://img.shields.io/badge/Step%20Functions-FF4F8B?style=flat-square&logo=awslambda&logoColor=white"/>
@@ -107,7 +107,7 @@ motto: "아키텍처는 시작일 뿐, 운영으로 증명한다."
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 GenAI 인프라 (RAG Pipeline)</h3>
+      <h3><img src="https://api.iconify.design/lucide/bot.svg?color=%23FF9900" height="20" align="center"/> GenAI 인프라 (RAG Pipeline)</h3>
       20개 고객사 RAG 시스템 인프라 구축 — 수집·전처리·벡터저장·검색·응답 전체 파이프라인, OpenSearch Serverless + S3 데이터 레이크
       <br/><br/>
       <img src="https://img.shields.io/badge/Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900"/>
@@ -115,7 +115,7 @@ motto: "아키텍처는 시작일 뿐, 운영으로 증명한다."
       <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h3>🔐 EC2 침해사고 대응 &amp; 포렌식</h3>
+      <h3><img src="https://api.iconify.design/lucide/lock.svg?color=%23FF9900" height="20" align="center"/> EC2 침해사고 대응 &amp; 포렌식</h3>
       DoS Abuse로 네트워크 차단된 인스턴스를 오프라인 포렌식 — 루트 EBS 분리·마운트 후 로그·크론·네트워크 분석으로 침입 타임라인 재구성, 대응 절차 문서화
       <br/><br/>
       <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
@@ -128,7 +128,7 @@ motto: "아키텍처는 시작일 뿐, 운영으로 증명한다."
 <br/>
 
 <!-- ===== OPEN-SOURCE LABS ===== -->
-## 🧪 Open-source Labs
+## <img src="https://api.iconify.design/lucide/flask-conical.svg?color=%23FF9900" height="26" align="center"/> Open-source Labs
 
 | Repo | Description |
 |------|-------------|
@@ -139,15 +139,15 @@ motto: "아키텍처는 시작일 뿐, 운영으로 증명한다."
 <br/>
 
 <!-- ===== CERTIFICATIONS ===== -->
-## 📜 Certifications
+## <img src="https://api.iconify.design/lucide/scroll-text.svg?color=%23FF9900" height="26" align="center"/> Certifications
 
-**☁️ AWS — Professional**
+<img src="https://api.iconify.design/lucide/cloud.svg?color=%23FF9900" height="16" align="center"/> **AWS — Professional**
 <p>
   <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-Professional-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
   <img src="https://img.shields.io/badge/AWS%20DevOps%20Engineer-Professional-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
 </p>
 
-**☁️ AWS — Associate & Foundational**
+<img src="https://api.iconify.design/lucide/cloud.svg?color=%23FF9900" height="16" align="center"/> **AWS — Associate & Foundational**
 <p>
   <img src="https://img.shields.io/badge/Solutions%20Architect-Associate-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white"/>
   <img src="https://img.shields.io/badge/Developer-Associate-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white"/>
@@ -156,19 +156,19 @@ motto: "아키텍처는 시작일 뿐, 운영으로 증명한다."
   <img src="https://img.shields.io/badge/AI%20Practitioner-Foundational-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white"/>
 </p>
 
-**🧩 Kubernetes · Data · AI**
+<img src="https://api.iconify.design/lucide/puzzle.svg?color=%23FF9900" height="16" align="center"/> **Kubernetes · Data · AI**
 <p>
   <img src="https://img.shields.io/badge/CKA%20Kubernetes%20Administrator-CNCF-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Databricks%20GenAI%20Engineer-Associate-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLD-KDATA-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
 </p>
 
-> 🏅 AWS 7종(Professional 2 · Associate 4 · Foundational 1) · CKA · Databricks · SQLD
+> <img src="https://api.iconify.design/lucide/medal.svg?color=%23FF9900" height="16" align="center"/> AWS 7종(Professional 2 · Associate 4 · Foundational 1) · CKA · Databricks · SQLD
 
 <br/>
 
 <!-- ===== CONTACT ===== -->
-## 📫 Let's Connect
+## <img src="https://api.iconify.design/lucide/mail.svg?color=%23FF9900" height="26" align="center"/> Let's Connect
 
 <p>
   <a href="https://www.linkedin.com/in/minholee1999/">
