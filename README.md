@@ -1,5 +1,5 @@
 <!-- ===== HEADER BANNER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,100:FF9900&height=200&section=header&text=Minho%20Lee&fontSize=58&fontColor=ffffff&fontAlignY=34&desc=Cloud%20%26%20DevOps%20Engineer%20%C2%B7%20AWS%20Solutions%20Architect&descAlignY=56&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:232F3E,100:FF9900&height=210&section=header&text=Minho%20Lee&fontSize=58&fontColor=ffffff&fontAlignY=32&desc=Cloud%20%26%20DevOps%20Engineer%20%C2%B7%20AWS%20Solutions%20Architect&descAlignY=52&descSize=17"/>
 
 <!-- ===== TYPING ANIMATION ===== -->
 <p align="center">
@@ -178,4 +178,4 @@ motto: "아키텍처는 시작일 뿐, 운영으로 증명한다."
 > 클라우드 아키텍처 · 운영 자동화 · GenAI에 대해 이야기하고 싶다면 언제든 연락 주세요.
 
 <!-- ===== FOOTER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,100:232F3E&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:FF9900,100:232F3E&height=140&section=footer&reversal=true"/>
