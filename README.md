@@ -167,18 +167,5 @@ motto: "아키텍처는 시작일 뿐, 운영으로 증명한다."
 
 <br/>
 
-<!-- ===== CONTACT ===== -->
-## 📫 Let's Connect
-
-<p>
-  <a href="https://www.linkedin.com/in/minholee1999/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="34" height="34" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:andy0401@naver.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="34" height="34" alt="Email"/>
-  </a>
-</p>
-
 <!-- ===== FOOTER ===== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:FF9900,100:232F3E&height=140&section=footer&reversal=true"/>
