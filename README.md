@@ -51,62 +51,51 @@ motto: "배운 것은 공개 실습으로 정리해 공유합니다."
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">☁️ EKS × LiteLLM Feature Labs</h3>
-      <p align="center">
-        <a href="https://github.com/m2nho/aws-eks-litellm-feature-labs">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=m2nho&repo=aws-eks-litellm-feature-labs&theme=tokyonight&hide_border=true" alt="litellm-labs"/>
-        </a>
-      </p>
+      <h3>☁️ <a href="https://github.com/m2nho/aws-eks-litellm-feature-labs">EKS × LiteLLM Feature Labs</a></h3>
+      EKS 위 LiteLLM 게이트웨이로 <b>가상키·예산, 멀티모델 라우팅, 관측성·가드레일</b> 4개 Lab을 실습하는 Helm·Terraform 레포
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white"/>
+      <img src="https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">💬 EKS × Open WebUI × Bedrock</h3>
-      <p align="center">
-        <a href="https://github.com/m2nho/aws-eks-openwebui-litellm-bedrock">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=m2nho&repo=aws-eks-openwebui-litellm-bedrock&theme=tokyonight&hide_border=true" alt="openwebui"/>
-        </a>
-      </p>
+      <h3>💬 <a href="https://github.com/m2nho/aws-eks-openwebui-litellm-bedrock">EKS × Open WebUI × Bedrock</a></h3>
+      Open WebUI + LiteLLM을 EKS에서 연결해 <b>Amazon Bedrock(Claude)</b>을 셀프호스팅 채팅으로 쓰는 Terraform 2-stage 실습
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+      <img src="https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🔐 CloudTrail Slack Alarm</h3>
-      <p align="center">
-        <a href="https://github.com/m2nho/cloudtrail-slack-alarm">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=m2nho&repo=cloudtrail-slack-alarm&theme=tokyonight&hide_border=true" alt="cloudtrail"/>
-        </a>
-      </p>
+      <h3>🔐 <a href="https://github.com/m2nho/cloudtrail-slack-alarm">CloudTrail Slack Alarm</a></h3>
+      CloudTrail 보안 모니터링 AI 에이전트 — <b>CIS Benchmark + Claude 분석</b>으로 위험 이벤트를 Slack 실시간 알림
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CloudTrail-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 Bedrock Agentic Workshop</h3>
-      <p align="center">
-        <a href="https://github.com/m2nho/-workshop-aws-bedrock-agentic">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=m2nho&repo=-workshop-aws-bedrock-agentic&theme=tokyonight&hide_border=true" alt="bedrock-workshop"/>
-        </a>
-      </p>
+      <h3>🤖 <a href="https://github.com/m2nho/-workshop-aws-bedrock-agentic">Bedrock Agentic Workshop</a></h3>
+      Amazon Bedrock 첫걸음 — 생성형 AI 개념을 수십 개 실습으로 익히는 <b>Agentic AI 워크샵</b> 아카이브
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GenAI-FF9900?style=flat-square&logo=openai&logoColor=white"/>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- ===== GITHUB STATS ===== -->
-## 📊 GitHub Stats
+<!-- ===== GITHUB ACTIVITY ===== -->
+## 📈 GitHub Activity
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=m2nho&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats"/>
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=m2nho&hide_border=true&theme=tokyonight" alt="Streak"/>
 </p>
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m2nho&layout=compact&hide_border=true&count_private=true&langs_count=8&theme=tokyonight" alt="Top Languages"/>
-</p>
-
-<!-- ===== TROPHIES ===== -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=m2nho&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies"/>
-</p>
-
-<!-- ===== ACTIVITY GRAPH ===== -->
 <p align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=m2nho&hide_border=true&theme=tokyo-night&area=true" alt="Activity Graph"/>
 </p>
