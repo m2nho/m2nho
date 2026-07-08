@@ -135,6 +135,7 @@ motto: "아키텍처는 시작일 뿐, 운영으로 증명한다."
 | [**aws-eks-litellm-feature-labs**](https://github.com/m2nho/aws-eks-litellm-feature-labs) | EKS 위 LiteLLM 게이트웨이 — 가상키·예산, 멀티모델 라우팅, 관측성·가드레일 4개 Lab (Helm·Terraform) |
 | [**aws-eks-openwebui-litellm-bedrock**](https://github.com/m2nho/aws-eks-openwebui-litellm-bedrock) | Open WebUI + LiteLLM을 EKS에서 Amazon Bedrock(Claude)에 연결하는 Terraform 2-stage 실습 |
 | [**cloudtrail-slack-alarm**](https://github.com/m2nho/cloudtrail-slack-alarm) | CloudTrail 보안 모니터링 AI 에이전트 — CIS Benchmark + Claude 분석으로 위험 이벤트 Slack 알림 |
+| [**litellm-kit**](https://github.com/m2nho/litellm-kit) | 터미널 TUI 마법사로 EKS·ECS(Fargate)에 LiteLLM 게이트웨이 + Open WebUI 배포 (Go·Terraform·Helm 자동화) |
 
 <br/>
 
