@@ -132,6 +132,7 @@ motto: "아키텍처는 시작일 뿐, 운영으로 증명한다."
 
 | Repo | Description |
 |------|-------------|
+| [**aws-eks-rag-bedrock**](https://github.com/m2nho/aws-eks-rag-bedrock) | EKS + Bedrock RAG 파이프라인 — 정제·청킹·임베딩·리랭킹을 hit@k·MRR로 정량 비교, StatefulSet+PVC·ALB·HPA·Langfuse 관측까지 (Terraform·LlamaIndex) |
 | [**aws-eks-litellm-feature-labs**](https://github.com/m2nho/aws-eks-litellm-feature-labs) | EKS 위 LiteLLM 게이트웨이 — 가상키·예산, 멀티모델 라우팅, 관측성·가드레일 4개 Lab (Helm·Terraform) |
 | [**aws-eks-openwebui-litellm-bedrock**](https://github.com/m2nho/aws-eks-openwebui-litellm-bedrock) | Open WebUI + LiteLLM을 EKS에서 Amazon Bedrock(Claude)에 연결하는 Terraform 2-stage 실습 |
 | [**cloudtrail-slack-alarm**](https://github.com/m2nho/cloudtrail-slack-alarm) | CloudTrail 보안 모니터링 AI 에이전트 — CIS Benchmark + Claude 분석으로 위험 이벤트 Slack 알림 |
